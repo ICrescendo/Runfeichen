@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Runfei Chen</h1>
 <h3 align="center">A PhD student in Transportation Engineering</h3>
 
-- 🔭 I’m currently studying in [Tongji University]([https://umi.tongji.edu.cn/dsdw/fx2cskjhdjcyfxjs.htm](https://umi.tongji.edu.cn/info/1067/1120.htm))
+- 🔭 I’m currently studying in [Tongji University]([https://umi.tongji.edu.cn/info/1067/1120.htm])
 
 - 👯 I’m looking to collaborate on **Transportation Infrastructure Resilience Analysis**
 
