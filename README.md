@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Runfei Chen</h1>
-<h3 align="center">A PhD student in Transportation Engineering</h3>
-
-- 🔭 I’m currently studying in [Tongji University](https://umi.tongji.edu.cn/info/1067/1120.htm)
-
-- 👯 I’m looking to collaborate on **Transportation Infrastructure Resilience Analysis**
-
-- 🤝 I’m looking for help with **Support Model for Transportation Infrastructure Operation and Maintenance**
-
-- 💬 Ask me about **Urban Lifeline Engineering**
-
-- 📫 How to reach me **RunfeiChen@tongji.edu.cn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/runfeichen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="runfeichen" height="30" width="40" /></a>
